@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&family=Hedvig+Letters+Serif:opsz@12..24&display=swap');
+ 
+.homePage{
+    background-image: url('https://images.unsplash.com/photo-1566698629409-787a68fc5724?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+small{
+    font-size: small !important;
+}
+.textHead{
+    font-size: 150px;
+    color: #ffffff;
+    font-family: "Hedvig Letters Serif", serif;
+}
+.btn-ligy{
+    background-color: #faedcd !important;
+}
+.aboutPage{
+    background-color: #f5ebe0;
+}
+.titlePage{
+    font-family: "Gwendolyn", cursive;
+}
+.blockHead{
+    font-family: "Hedvig Letters Serif", serif;
+}
+.text-brown{
+    color: brown !important;
+}
+
+.vidPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 100vw;
+}
+.reviewPage{
+    background-color: floralwhite;
+}
+.btn-brown{
+    background-color: brown !important;
+    color: white !important;
+}
+.bg-brown{
+    background-color: brown;
+}
+/* @media screen and (max-width:546px) {
+    .titleHead{
+        font-size: 50%;
+    }
+} */
