@@ -9,11 +9,13 @@
     align-items: center;
     height: 100vh;
 }
+.homePage>h1{
+    font-size: 150px !important;
+}
 small{
     font-size: small !important;
 }
 .textHead{
-    font-size: 150px;
     color: #ffffff;
     font-family: "Hedvig Letters Serif", serif;
 }
@@ -51,8 +53,14 @@ small{
 .bg-brown{
     background-color: brown;
 }
-/* @media screen and (max-width:546px) {
+@media screen and (max-width:546px) {
     .titleHead{
-        font-size: 50%;
+        font-size: 10px ;
     }
-} */
+    .dfooter{
+        text-align: center !important;
+    }
+    .homePage>h1{
+        font-size: 70px !important;
+    }
+}
