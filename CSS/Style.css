@@ -60,6 +60,11 @@ small{
     .dfooter{
         text-align: center !important;
     }
+    .d-footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+    }
     .homePage>h1{
         font-size: 70px !important;
     }
