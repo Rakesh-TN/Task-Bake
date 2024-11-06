@@ -22,6 +22,10 @@ small{
 .btn-ligy{
     background-color: #faedcd !important;
 }
+.btn-ligy:hover{
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
 .aboutPage{
     background-color: #f5ebe0;
 }
